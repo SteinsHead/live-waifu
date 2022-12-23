@@ -67,14 +67,14 @@
 }
 
 #live2d {
-	cursor: help;
+	cursor: grab;
 	height: 300px;
 	position: relative;
 	width: 300px;
 }
 
 #live2d:active {
-	cursor: crosshair;
+	cursor: grabbing;
 }
 
 #waifu-tool {
